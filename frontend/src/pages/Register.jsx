@@ -64,7 +64,7 @@ function Register() {
     <>
       <section className="heading">
         <h1>
-          <FaUser /> Register
+          <FaUser /> Sign Up
         </h1>
         <p>Please create an account</p>
       </section>
